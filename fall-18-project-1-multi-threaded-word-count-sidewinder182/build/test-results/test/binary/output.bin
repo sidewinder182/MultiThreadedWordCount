@@ -1,0 +1,39 @@
+In the mastersocket thread
+In the workersocket thread
+closing worker socket thread
+master socket closed
+PID 10396
+"Connection made with PID = 10396
+Closing worker cause no file
+Closing socket
+In the mastersocket thread
+In the workersocket thread
+closing worker socket thread
+PID 13128
+"Connection made with PID = 13128
+Closing worker cause no file
+Closing socket
+master socket closed
+PID 12696
+"Connection made with PID = 12696
+Closing worker cause no file
+Closing socket
+
+PID 8588
+In the mastersocket thread
+!Connection made with PID = 8588
+Closing worker cause no file
+Closing socket
+In the workersocket thread
+closing worker socket thread
+
+PID 9412
+!Connection made with PID = 9412
+Closing worker cause no file
+Closing socket
+
+PID 8752
+!Connection made with PID = 8752
+Closing worker cause no file
+Closing socket
+master socket closed

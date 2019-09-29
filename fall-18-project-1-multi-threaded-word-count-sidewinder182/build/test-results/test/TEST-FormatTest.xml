@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FormatTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-10-22T22:19:15" hostname="LAPTOP-MA8FJ7HA" time="11.166">
+  <properties/>
+  <testcase name="testFormat[0]" classname="FormatTest" time="5.433"/>
+  <testcase name="testFormat[1]" classname="FormatTest" time="5.733"/>
+  <system-out><![CDATA[In the mastersocket thread
+In the workersocket thread
+PID 13116
+Connection made with PID = 13116
+map /C:/GitHub/fall-18-project-1-multi-threaded-word-count-sidewinder182/build/resources/test/simple.txt
+start
+heartbeat message from 13116
+map C:\Users\swaru\map_output\13116.txt done in heartbeat
+all maps done
+close
+Closing socket
+closing worker socket thread
+master socket closed
+Reduce called
+In the mastersocket thread
+In the workersocket thread
+PID 7368
+Connection made with PID = 7368
+map /C:/GitHub/fall-18-project-1-multi-threaded-word-count-sidewinder182/build/resources/test/random.txt
+start
+heartbeat message from 7368
+map C:\Users\swaru\map_output\7368.txt done in heartbeat
+all maps done
+close
+Closing socket
+closing worker socket thread
+master socket closed
+Reduce called
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
